@@ -1,0 +1,219 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1169px) {
+.container{
+	width: 970px;
+}  
+
+
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .container{
+	width:750px;
+}
+.player_search_box {
+  width: 100%;
+}
+.ps_single {
+  margin-bottom: 20px;
+}
+.player_search_inner h1 {
+  font-size: 48px;
+}
+.log_sign {
+  width: 100%;
+}
+.myplayer_head_middle h2 {
+  font-size: 28px;
+}
+.head_bottom_box p span.online {
+  margin-left: 12px;
+}
+.myplayer_head_left > span {
+  margin-left: 0;
+}
+.myplayer_head_right > a {
+  margin-left: -49px;
+}
+.myplayer_middle_inner p {
+  font-size: 20px;
+}
+.myplayer_table {
+  overflow-x: auto;
+}
+.myplayer_table table {
+  width: 950px;
+}
+.myplayer_table table tr td {
+  font-size: 24px;
+}
+    
+    
+    
+}
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.container {
+	width:320px;
+}
+#cd-menu-trigger {
+    display: block;
+}
+.header_nav_area {
+  display: none;
+}
+.hta_right {
+  text-align: left;
+}
+.hta_right a#geckzu {
+  padding-top: 2px;
+}
+.header_top_area {
+  padding: 15px 0;
+}  
+.geckzu-dropdown {
+  top: 44px;
+}   
+#cd-menu-trigger {
+  background-color: #1c4b6f;
+} 
+.cd-navigation > li {
+  color: #ddd;
+  padding: 0 16px 0 32px;
+}
+#cd-lateral-nav a {
+  padding: 0;
+}
+.cd-navigation {
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}
+.player_search_inner h1 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.cd-main-content {
+  padding-top: 60px;
+}
+.player_search_area {
+  padding: 35px 0 30px;
+}
+.player_search_inner p {
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.player_search_box {
+  width: 100%;
+}
+.add_keyword, .primary_skill, .secondery_skill, .sbfb_left, .time_zone, .game_mode, .sbfb_left fieldset {
+  margin-bottom: 10px;
+  margin-right: 0;
+  width: 100%;
+} 
+.psb_table {
+  overflow-x: auto;
+}
+.psb_table table {
+  width: 500px;
+}
+.psb_head h4 {
+  font-size: 20px;
+}
+.add-a-myplayer-box input[type="submit"] {
+  font-size: 20px;
+  height: 55px;
+  width: 100%;
+}
+.edit-a-myplayer .sr_head.text-center h2 {
+  font-size: 28px;
+}
+.setting_head h2 {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+.setting_inner {
+  width: 100%;
+}
+.setting_box_left input[type="submit"] {
+  margin-left: 0;
+}
+.search_result_box {
+  overflow-x: auto;
+}
+.search_result_box table {
+  width: 950px;
+}
+.log_sign {
+  margin: 0 auto 30px;
+  overflow: hidden;
+  width: 100%;
+}
+.hta_right a#geckzu, .hta_right a {
+  font-size: 14px;
+  padding-top: 5px;
+}
+.current_time {
+  margin: 0 auto;
+}
+.myplayer_head_left > span {
+  margin-left: 59px;
+}
+.myplayer_head_middle h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}  
+.head_bottom_box p span.online {
+  margin-left: 20px;
+}
+.myplayer_head_right .current_time {
+  float: none;
+}
+.myplayer_head_right > a {
+  margin-left: -11px;
+}
+.myplayer_middle_inner p {
+  font-size: 20px;
+}
+.myplayer_table {
+  overflow-x: auto;
+}
+.myplayer_table table {
+  width: 950px;
+}
+.myplayer_table table tr td {
+  font-size: 24px;
+}   
+.ratings ul li {
+  width: 50%;
+}
+.youtube_box a {
+  font-size: 16px;
+  padding: 15px 0;
+}  
+.reset {
+  position: relative;
+  right: 0;
+  top: -18px;
+}
+    
+}
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {
+	width:450px;
+}
+
+
+
+}
